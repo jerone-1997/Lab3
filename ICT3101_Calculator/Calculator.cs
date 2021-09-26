@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-/*ICT3101: Lab 1
+/*ICT3101: Lab 3, with integration
 Prepared by: Jerone Poh
 */
 
