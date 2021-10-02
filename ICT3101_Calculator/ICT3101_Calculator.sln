@@ -6,9 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ICT3101_Calculator", "ICT3101_Calculator.csproj", "{A931E80D-4C73-4404-A0C2-FDEDC11ADF36}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4C3BE7D3-D40E-42B4-A8CA-AEE7362165E0}"
-	ProjectSection(SolutionItems) = preProject
-		.travis.yml = .travis.yml
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICT3101_Calculator.UnitTests", "..\ICT3101_Calculator.UnitTests\ICT3101_Calculator.UnitTests.csproj", "{B68D0B33-FA61-443D-A790-8045529B50E7}"
 EndProject
