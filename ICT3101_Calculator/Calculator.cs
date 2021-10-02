@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 /*ICT3101: Lab 3 changes, now can run 2 solution files. (Latest on 3 October 2021)
-Prepared by: Jerone Poh Lab Group P1 2021/22
+Prepared by: Jerone Poh Lab Group P1 2021/22 AY
 */
 
 namespace ICT3101_Calculator
