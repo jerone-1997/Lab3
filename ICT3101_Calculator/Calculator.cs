@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-/*ICT3101: Lab 3 changes
+/*ICT3101: Lab 3 changes, now can run 2 solution files.
 Prepared by: Jerone Poh
 */
 
