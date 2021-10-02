@@ -1,8 +1,8 @@
+os: windows
 language: csharp
-solution: "./ICT3101_Calculator/ICT3101_Calculator.sln"
 mono: none
-install:
-- travis_retry nuget restore -source "https://www.nuget.org/api/v2" ./ICT3101_Calculator/ICT3101_Calculator.sln
+
 script:
-- xbuild ./ICT3101_Calculator/ICT3101_Calculator.sln
-- dotnet test
+- choco install dotnetcore-sdk
+- dotnet --version
+- dotnet restore
