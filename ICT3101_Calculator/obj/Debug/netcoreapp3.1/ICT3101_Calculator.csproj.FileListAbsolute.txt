@@ -11,3 +11,17 @@ C:\Users\Jerone Poh\Desktop\ICT 3101\Lab\Lab 1\ICT3101_Calculator\obj\Debug\netc
 C:\Users\Jerone Poh\Desktop\ICT 3101\Lab\Lab 1\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.dll
 C:\Users\Jerone Poh\Desktop\ICT 3101\Lab\Lab 1\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.pdb
 C:\Users\Jerone Poh\Desktop\ICT 3101\Lab\Lab 1\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.genruntimeconfig.cache
+C:\Users\Jerone Poh\Desktop\ICT 3101\Lab\Lab3\ICT3101_Calculator\bin\Debug\netcoreapp3.1\ICT3101_Calculator.exe
+C:\Users\Jerone Poh\Desktop\ICT 3101\Lab\Lab3\ICT3101_Calculator\bin\Debug\netcoreapp3.1\ICT3101_Calculator.deps.json
+C:\Users\Jerone Poh\Desktop\ICT 3101\Lab\Lab3\ICT3101_Calculator\bin\Debug\netcoreapp3.1\ICT3101_Calculator.runtimeconfig.json
+C:\Users\Jerone Poh\Desktop\ICT 3101\Lab\Lab3\ICT3101_Calculator\bin\Debug\netcoreapp3.1\ICT3101_Calculator.runtimeconfig.dev.json
+C:\Users\Jerone Poh\Desktop\ICT 3101\Lab\Lab3\ICT3101_Calculator\bin\Debug\netcoreapp3.1\ICT3101_Calculator.dll
+C:\Users\Jerone Poh\Desktop\ICT 3101\Lab\Lab3\ICT3101_Calculator\bin\Debug\netcoreapp3.1\ICT3101_Calculator.pdb
+C:\Users\Jerone Poh\Desktop\ICT 3101\Lab\Lab3\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.csproj.AssemblyReference.cache
+C:\Users\Jerone Poh\Desktop\ICT 3101\Lab\Lab3\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerone Poh\Desktop\ICT 3101\Lab\Lab3\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.AssemblyInfoInputs.cache
+C:\Users\Jerone Poh\Desktop\ICT 3101\Lab\Lab3\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.AssemblyInfo.cs
+C:\Users\Jerone Poh\Desktop\ICT 3101\Lab\Lab3\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Jerone Poh\Desktop\ICT 3101\Lab\Lab3\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.dll
+C:\Users\Jerone Poh\Desktop\ICT 3101\Lab\Lab3\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.pdb
+C:\Users\Jerone Poh\Desktop\ICT 3101\Lab\Lab3\ICT3101_Calculator\obj\Debug\netcoreapp3.1\ICT3101_Calculator.genruntimeconfig.cache
