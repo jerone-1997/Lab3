@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.travis.yml = .travis.yml
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ICT3101_Calculator.UnitTests", "..\ICT3101_Calculator.UnitTests\ICT3101_Calculator.UnitTests.csproj", "{B68D0B33-FA61-443D-A790-8045529B50E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICT3101_Calculator.UnitTests", "..\ICT3101_Calculator.UnitTests\ICT3101_Calculator.UnitTests.csproj", "{B68D0B33-FA61-443D-A790-8045529B50E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
